@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'title' => 'Profile',
+    'editProfile' => 'Edit Profile',
+    'signUpSeller' => 'Sign up as Seller',
+    'signUp' => 'Sign up',
+    'register' => 'Register',
+    'signIn' => 'Sign in',
+    'login' => 'Login',
+    'name' => 'Name',
+    'surname' => 'Surname',
+    'marketplace' => 'Marketplace',
+    'email' => 'Email',
+    'phone' => 'Phone',
+    'password' => 'Password',
+    'emailOrPhone' => 'Email or Phone',
+    'registerSeller' => 'Register as Seller',
+    'registerClient' => 'Register as Customer',
+    'myProducts' => 'My products',
+    'myOrders' => 'My orders',
+    'beSeller' => 'Want to be a seller?',
+    'notYet' => 'Not a member?',
+    'already' => 'Already a member?',
+    'cancel' => 'Cancel',
+    'update' => 'Update',
+    'deleteAccount' => 'Delete Account',
+];
